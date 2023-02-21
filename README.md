@@ -1,0 +1,2 @@
+# pytlsclient
+sockeモジュールで作成するtlsクライアント
